@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "colonel_dotto"
+  site-url: "https://TesfaAsmara.github.io/colonel_dotto"
+  description: "Directed graphs for Colonel Blotto"
+  repo-branch: main
+  repo-url: "https://github.com/TesfaAsmara/colonel_dotto"
